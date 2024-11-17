@@ -13,7 +13,7 @@ Training code
 - google colab has gpu that is why i used it
 - configs:
   -annotations folder in dataset folder /instances_train2017.json, instances_test2017.json, isntances_val2017.json/
-  - train2017, valid2017, test2017 folders
+  - train2017, val2017, test2017 folders
   - number of classes in /models/detr.py
 
 Detect with usb webcam
