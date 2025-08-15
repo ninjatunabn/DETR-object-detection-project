@@ -1,16 +1,13 @@
-# tusul-num
-detr
-
-
-#Төслийн ажил/DETR
+NUM
+DETR
 
 Dataset
-- prepared my dataset of basketball ball in roboflow
+- prepared dataset of object in roboflow
 - it is free, open-source dataset preperation web
-- dataset format - COCO
+- data format - COCO
 
 Training code
-- google colab has gpu that is why i used it
+- google colab
 - configs:
   -annotations folder in dataset folder /instances_train2017.json, instances_test2017.json, isntances_val2017.json/
   - train2017, val2017, test2017 folders
