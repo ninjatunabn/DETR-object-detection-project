@@ -1,5 +1,5 @@
-NUM
-DETR
+Project for the course at NUM 24 Spring semester
+Transformers architecture based model DETR, Object detection model training.
 
 Dataset
 - prepared dataset of object in roboflow
